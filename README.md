@@ -1,6 +1,6 @@
 # 🚀 API .Net Core, integrada com MongoDB
 
-![print](doc/print.PNG)
+![print](doc/print.png)
 
 Exemplo de aplicação .net core com mongodb.
 
