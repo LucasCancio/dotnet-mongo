@@ -18,7 +18,7 @@ https://localhost:5001/infectado
 ```
 OBS: é preciso ter configurar o acesso ao banco no appsettings.
 
-Links Uteis:
+### Links Uteis:
 
 - .net core - https://dotnet.microsoft.com/download
 
@@ -29,14 +29,12 @@ Links Uteis:
 - mongo atlas - https://www.mongodb.com/cloud/atlas/register
 
 
------------------------------------------------
+<hr>
 
-Referências:
+<p align="center">
+  <img src="doc/dio-logo.png" width="300" />
+ </p>
+ <p align="center">
+  <a href="https://digitalinnovation.one/sign-up?ref=H395IYS4Z6">SE INSCREVER</a>
+ </p>
 
-https://docs.mongodb.com/
-
-https://docs.mongodb.com/manual/
-
-https://docs.mongodb.com/ecosystem/drivers/csharp/
-
-https://docs.atlas.mongodb.com/
